@@ -4,3 +4,6 @@ This project aims to use bash scripts to constantly scrap data from a website an
 
 This project is not finish yet...
 
+Page.html : webpage for display abnormal value / SQL Request
+
+request.sh Bash script, scrapping data from Binance API, and send message on telegram
